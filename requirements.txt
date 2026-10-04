@@ -1,0 +1,4 @@
+psycopg[binary]>=3.2
+requests>=2.32
+tqdm>=4.66
+python-dotenv>=1.0
